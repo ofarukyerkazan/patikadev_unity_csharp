@@ -1,0 +1,15 @@
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/bin/Debug/net6.0/Koleksiyonlar-Soru-3
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/bin/Debug/net6.0/Koleksiyonlar-Soru-3.deps.json
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/bin/Debug/net6.0/Koleksiyonlar-Soru-3.runtimeconfig.json
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/bin/Debug/net6.0/Koleksiyonlar-Soru-3.dll
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/bin/Debug/net6.0/Koleksiyonlar-Soru-3.pdb
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.AssemblyInfo.cs
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.dll
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/refint/Koleksiyonlar-Soru-3.dll
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.pdb
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/Koleksiyonlar-Soru-3.genruntimeconfig.cache
+/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-3/obj/Debug/net6.0/ref/Koleksiyonlar-Soru-3.dll
