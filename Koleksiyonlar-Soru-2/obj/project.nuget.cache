@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vT3yZdOxInzKXXP6Xqd8ceGmBMbU1EgODcjoNVkEmt3yrfs3t9PWViUNObpegrbssYJYhkGLbmdEBowCmc5+4Q==",
+  "success": true,
+  "projectFilePath": "/Users/omerfaruk/Desktop/csharp/Koleksiyonlar-Soru-2/Koleksiyonlar-Soru-2.csproj",
+  "expectedPackageFiles": [
+    "/Users/omerfaruk/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/omerfaruk/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/omerfaruk/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.19/microsoft.netcore.app.host.osx-arm64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
