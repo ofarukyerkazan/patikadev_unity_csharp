@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDOjTfGefhlkoRkf4V9gAeMhl0h4fHlti1X+6Q0grBRlcNJcEINY7e97KxPlnOzz1WuHsSBVrDKDJ/N/J27w1Q==",
+  "success": true,
+  "projectFilePath": "/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/Telefon_Rehber_Uygulaması.csproj",
+  "expectedPackageFiles": [
+    "/Users/omerfaruk/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/omerfaruk/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/omerfaruk/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.19/microsoft.netcore.app.host.osx-arm64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

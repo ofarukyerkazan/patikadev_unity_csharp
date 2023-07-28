@@ -1,0 +1,15 @@
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/bin/Debug/net6.0/Telefon_Rehber_Uygulaması
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/bin/Debug/net6.0/Telefon_Rehber_Uygulaması.deps.json
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/bin/Debug/net6.0/Telefon_Rehber_Uygulaması.runtimeconfig.json
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/bin/Debug/net6.0/Telefon_Rehber_Uygulaması.dll
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/bin/Debug/net6.0/Telefon_Rehber_Uygulaması.pdb
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.csproj.AssemblyReference.cache
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.AssemblyInfoInputs.cache
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.AssemblyInfo.cs
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.csproj.CoreCompileInputs.cache
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.dll
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/refint/Telefon_Rehber_Uygulaması.dll
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.pdb
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/Telefon_Rehber_Uygulaması.genruntimeconfig.cache
+/Users/omerfaruk/Desktop/csharp/Telefon_Rehber_Uygulaması/obj/Debug/net6.0/ref/Telefon_Rehber_Uygulaması.dll
