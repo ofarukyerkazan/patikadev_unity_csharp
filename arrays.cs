@@ -16,7 +16,7 @@ class Program
         dizi[4] = 23;
         Console.WriteLine(hayvanlar[0]);
         Console.WriteLine(renkler[0]);
-        Console.WriteLine(dizi[4]);
+        Console.WriteLine(dizi[3]);
 
         //Döngüler dizi kullanımı
         // Klavyeden girilen n tane sayının ortalamasını hesaplayan program
